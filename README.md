@@ -6,6 +6,6 @@ Currently learning Mandarin🍊
 
 Location: Stockholm
 
-Age: 15
+Age: 16
 
 Hobbies: Meditating, reading and martial arts
