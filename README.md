@@ -3,8 +3,13 @@ I'm Elliot, a 16 y/o elementary school dropout. I love expermenting with ML rese
 I'm currently building the last piece of software at Lovable.
 
 Purpose:
+
 Solve ASI alignment
+
 Fix energy crisis
+
 Get rid of global extreme poverty
+
 Make humans a multi-planetary species
+
 10x living conditions of all living things
