@@ -1,11 +1,10 @@
-I'm Elliot
+I'm Elliot, a 16 y/o elementary school dropout. I love expermenting with ML research, building cool things and exploring rabbit holes.
 
-I wanna solve the worlds biggest problems by creating Artifical Superintelligence and applying it in a safe way (And having fun doing it :).
+I'm currently building the last piece of software at Lovable.
 
-Currently learning Mandarin🍊
-
-Location: Stockholm
-
-Age: 16
-
-Hobbies: Meditating, reading and martial arts
+Purpose:
+Solve ASI alignment
+Fix energy crisis
+Get rid of global extreme poverty
+Make humans a multi-planetary species
+10x living conditions of all living things
