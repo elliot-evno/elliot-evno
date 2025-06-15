@@ -1,4 +1,4 @@
-I'm Elliot, a 16 y/o elementary school dropout. I love expermenting with ML research, building cool things and exploring rabbit holes.
+I'm Elliot, a 16 y/o high school dropout. I love expermenting with ML research, building cool things and exploring rabbit holes.
 
 I'm currently building the last piece of software at Lovable.
 
